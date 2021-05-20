@@ -31,5 +31,7 @@ public class BookMain {
         System.out.println();
 
         System.out.println(bookService.getParticularBookByIsbn("54875692456321548754"));
+
+        System.out.println("Small change for the next commit.");
     }
 }
